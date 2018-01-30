@@ -1,7 +1,7 @@
 # SI507-HW04-alnewma
 
 Amy Newman (alnewma)
-  Section 
+  Section 002 Thursday 
   GitHub ID: alnew
 
 Jillian Peacock (japz)
